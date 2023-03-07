@@ -1,5 +1,5 @@
 import React from "react";
-import "./Messsages.scss";
+import "./Messages.scss";
 const Messsages = () => {
   return <div>Messsages</div>;
 };
